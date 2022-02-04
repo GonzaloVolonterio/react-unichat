@@ -24,7 +24,7 @@ https://unichatreactchat.netlify.app/
 
 ```
 
-(in progress)
+https://github.com/GonzaloVolonterio/react-unichat
 
 ```
 
@@ -32,11 +32,7 @@ https://unichatreactchat.netlify.app/
 
 ```
 
-(in progress)
+Yarn install
 
 ```
-```
 
-(in progress)
-
-```
