@@ -17,7 +17,7 @@ Firebase
 ## Live
 
 ```
-(in progress)
+https://unichatreactchat.netlify.app/
 
 ```
 ### Clone repo 🔧
