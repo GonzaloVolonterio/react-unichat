@@ -1,42 +1,8 @@
-# Unichat Application
+# Unichat boilerplace
 
- ## Full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
- 
- ## Build with
+This is a modded creat-react-app project. It comes with:
 
-```
-React 
-React-dom
-React-router-dom
-React Chat Engine
-Axios
-Firebase
-
-```
-
-## Live
-
-```
-(in progress)
-
-```
-### Clone repo 🔧
-
-```
-
-(in progress)
-
-```
-
-### Instalación 🔧
-
-```
-
-(in progress)
-
-```
-```
-
-(in progress)
-
-```
+- A manifest with correct packages
+- Useless files taken out
+- Needed folder structure
+- CSS
