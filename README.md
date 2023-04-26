@@ -32,7 +32,10 @@ https://github.com/GonzaloVolonterio/react-unichat
 
 ```
 
-Yarn install
+yarn install
+
+yarn start
 
 ```
 
+![4](https://user-images.githubusercontent.com/64506662/234716596-4399ed98-7a63-4b90-a33c-62bc023471de.png)
